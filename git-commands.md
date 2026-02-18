@@ -15,13 +15,13 @@ git commit -m "<message>" - Commit staged files with message
 
 git push origin <branch> - Push changes to remote
 
-git pull origin <branch>
+git pull origin <branch> - Pull changes from github remote repo
 
-git branch
+git branch - To see the branch
 
 
 # Viewing Changes
 
-git log --oneline
+git log --oneline -- To see the details of commits
 
-git status
+git status --- Status of git staging 
