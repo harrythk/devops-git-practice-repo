@@ -1,19 +1,19 @@
 # Setup & Config Commands
 
-git init
+git init -- Initialize Git repo
 
-git clone <repo-url>
+git clone <repo-url> - Cone a remote repo
 
-git remote -v
+git remote -v - View remote repo added in local config
 
 
 # Basic Workflow
 
-git add <file_name>
+git add <file_name> -- Stage a file
 
-git commit -m "<message>"
+git commit -m "<message>" - Commit staged files with message
 
-git push origin <branch>
+git push origin <branch> - Push changes to remote
 
 git pull origin <branch>
 
