@@ -15,11 +15,13 @@ git add <file_name> >> Stage a file
 
 git commit -m "<message>" >> Commit staged files with message
 
-git push origin <branch> >> Push changes to remote
+git push origin main >> Push changes to remote
 
-git pull origin <branch> >> Pull changes from github remote repo
+git pull origin main >> Pull changes from github remote repo
 
 git branch >> To see the branch
+
+git switch main  >> to switch branch
 
 
 # Viewing Changes
