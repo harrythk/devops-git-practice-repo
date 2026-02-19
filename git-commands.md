@@ -21,6 +21,7 @@ git pull origin <branch> >> Pull changes from github remote repo
 
 git branch >> To see the branch
 
+git reset --soft <commit id> >> moves HEAD while keep changes in staging
 
 # Viewing Changes
 
